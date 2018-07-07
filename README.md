@@ -22,6 +22,8 @@ Run the "Set up Two-Up" Macro, position the preview camera over the speaker's fa
 
 *This configuration is setup for 1080p/59.94. If you change the size, you might have to change the macro configuration.*
 
+*If your laptop can't output 1080p/59.94, I recommend buying a Decimator MD-HX and using that for format conversion.*
+
 1. Start the ATEM Software Control Software.
 1. Back up your Atem first with `File` > `Save As...` 
 1. Click `File` > `Restore` and restore the XML file. 
